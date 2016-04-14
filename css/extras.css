@@ -49,6 +49,13 @@ li {
 	color:#000 !important;
 }
 
+.footer{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+   } 
+
 #bottom-buttons {
 	text-align: center;
 }
