@@ -42,6 +42,10 @@ p {
 	text-align: center;
 }
 
+ul {
+	color:#000 !important;
+}
+
 #bottom-buttons {
 	text-align: center;
 }
