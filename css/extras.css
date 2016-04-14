@@ -35,6 +35,12 @@ body {
 	background-color: #f1e8ca;
 }
 
+p {
+	color:#000 !important;
+	margin-left: 10%;
+	margin-right: 10%
+}
+
 #bottom-buttons {
 	text-align: center;
 }
