@@ -30,7 +30,9 @@ h3 {
 }
 
 body {
-	color: #f1e8ca;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: #f1e8ca;
 }
 
 #bottom-buttons {
