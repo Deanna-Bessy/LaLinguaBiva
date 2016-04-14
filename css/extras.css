@@ -50,7 +50,7 @@ li {
 }
 
 .footer{ 
-       position: fixed;     
+       position: absolute;     
        text-align: center;    
        bottom: 0px; 
        width: 100%;
