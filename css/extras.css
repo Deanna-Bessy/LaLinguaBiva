@@ -38,7 +38,8 @@ body {
 p {
 	color:#000 !important;
 	margin-left: 10%;
-	margin-right: 10%
+	margin-right: 10%;
+	text-align: center;
 }
 
 #bottom-buttons {
