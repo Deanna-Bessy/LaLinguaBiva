@@ -50,6 +50,7 @@ li {
 }
 
 footer {
+	position: absolute;
 	color:#000 !important;
 }
 
